@@ -32,6 +32,11 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+# ...but the placeholder template must be committed.
+!.env.example
+
+# local snapshot store (development only, never used in production)
+/.data/
 
 # vercel
 .vercel
