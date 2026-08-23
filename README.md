@@ -4,7 +4,9 @@ Find the least expensive AI model that can reliably handle your task — with th
 
 - Live demo: https://spec-pilot-tau.vercel.app/
 - GitHub: https://github.com/thisisharsh7/spec-pilot
-- Demo video: Add before final submission
+- Demo video: https://youtu.be/O_LFug5ZBsc
+
+[![Watch the SpecPilot demo](https://img.youtube.com/vi/O_LFug5ZBsc/maxresdefault.jpg)](https://youtu.be/O_LFug5ZBsc)
 
 ## 1. Problem and solution
 
