@@ -145,6 +145,6 @@ spec-pilot/
 
 ## Hackathon disclosure
 
-Built for Into the Scrape-Verse (WeMakeDevs × Bright Data), August 17–23, 2026. Solo submission by [@thisisharsh7](https://github.com/thisisharsh7), primary track Suit-Up — Best UI.
+Built for Into the Scrape-Verse (WeMakeDevs × Bright Data), August 17–23, 2026. Solo submission by [@thisisharsh7](https://github.com/thisisharsh7).
 
 Claude Code and Codex were used as coding assistants. I chose the idea, directed the architecture, configured the services, wrote the collector prompt, designed the database schema and the design system, reviewed the outputs, rejected the incorrect heal, and tested the deployment.
